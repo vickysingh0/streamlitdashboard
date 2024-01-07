@@ -1,3 +1,4 @@
-pip install plotly
-pip install streamlit
-pip install pandas 
+plotly
+streamlit
+pandas
+ydata-profiling
